@@ -1,0 +1,10 @@
+
+body{
+  font-family: "microsoft yahei";
+}
+#code{
+
+  overflow: auto;
+}
+.token.selector{ color: black; }
+.token.property{ color: black; }
