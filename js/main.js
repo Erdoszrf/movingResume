@@ -90,7 +90,7 @@ function writeCode(initcode,code1,fn){
       window.clearInterval(timer)
       fn && fn.call()
     }
-  },100)
+  },50)
 }
 function writeMd(markdown,fn){
   console.log('writeMd执行了')
